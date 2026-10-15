@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\readerfinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\readerfinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\ireaderfinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\ireaderfinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\iissuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\iissuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\models\\readerfine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\readerfine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|c:\\users\\nosov\\source\\repos\\libraryapp\\libraryapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9127F56-6E10-4D7C-B659-522EC5F4131C}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:25:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:25:06.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReaderFineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\ReaderFineRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\ReaderFineRepository.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\ReaderFineRepository.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\ReaderFineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:24:28.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IssueRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\IssueRepository.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IssueRepository.cs*",
+              "RelativeToolTip": "LibraryApp\\Repositories\\IssueRepository.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:23:50.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:23:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "LibraryApp\\Data\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:22:34.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReaderFineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IReaderFineRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\IReaderFineRepository.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IReaderFineRepository.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\IReaderFineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:21:24.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IIssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IIssueRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\IIssueRepository.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IIssueRepository.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\IIssueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:20:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryApp\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:20:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReaderFine.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Models\\ReaderFine.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\ReaderFine.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Models\\ReaderFine.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\ReaderFine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:19:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Models\\Issue.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:18:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:18:07.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nosov\\source\\repos\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeToolTip": "LibraryApp\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:09:09.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
