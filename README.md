@@ -126,16 +126,46 @@
 
 ### Активні видачі
 
+View `active_issues` показує книги, які зараз видані читачам, дати видачі та повернення, а також статус.
+
 ![Active issues](./screenshots/active_issues.png)
 
 ### Доступні книги
+
+View `available_books` показує доступні примірники книг, їхні інвентарні номери та філії бібліотеки.
 
 ![Available books](./screenshots/available_books.png)
 
 ### Робота програми
 
+У C# реалізувала Repository + Unit of Work. Програма отримує дані через View та викликає процедури PostgreSQL для видачі й повернення книг.
+
+На скріні видно результати запитів, створення нової видачі та повернення книги.
+
 ![Program output](./screenshots/program_output.png)
 
 ### Штрафи читачів
 
+View `reader_fines` показує штрафи читачів, їхні суми, причини та статус оплати.
+
 ![Reader fines](./screenshots/reader_fines.png)
+
+### Збережені процедури
+
+Процедура `issue_book` додає запис у таблицю `issues` та змінює статус примірника в `book_copies` на `issued`.
+
+Також створила процедури `return_book` для повернення книги та `create_service_order` для замовлення додаткових послуг.
+
+![Procedures](./screenshots/procedures.png)
+
+### Тригери
+
+Тригери `trg_books_updated_at` і `trg_readers_updated_at` автоматично оновлюють поле `updated_at` при зміні даних книги або читача.
+
+![Triggers](./screenshots/triggers.png)
+
+### Індекси
+
+Для таблиці `books` створила два типи індексів: `BTREE` для пошуку за назвою та `GIN` з `pg_trgm` для текстового пошуку.
+
+![Indexes](./screenshots/indexes.png)
